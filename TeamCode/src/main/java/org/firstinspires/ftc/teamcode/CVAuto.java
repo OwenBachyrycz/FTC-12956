@@ -64,7 +64,7 @@ public class CVAuto extends LinearOpMode {
 
         launcherArmL.setDirection(DcMotorSimple.Direction.REVERSE);
 
-        //Sensors
+        //Sensors bababooey
         homeSwitch = hardwareMap.get(DigitalChannel.class, "homeSwitch");
 
         //Important Variables
