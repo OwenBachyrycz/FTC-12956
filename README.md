@@ -43,7 +43,7 @@ The Javadoc reference documentation for the FTC SDK is now available online.  Cl
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[FTC Javadoc Documentation](https://first-tech-challenge.github.io/FtcRobotController)
 
 ### Online User Forum
-For technical questions regarding the Control System or the FTC SDK, please visit the FTC Technology forum:
+For technical questions regarding the Control System or the FTC SDK, please visit the FTC Technology forum: 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[FTC Technology Forum](https://ftcforum.firstinspires.org/forum/ftc-technology)
 
