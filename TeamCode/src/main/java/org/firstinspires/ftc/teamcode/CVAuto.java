@@ -78,7 +78,6 @@ public class CVAuto extends LinearOpMode {
         launcherArmL.setPower(0);
         launcherArmR.setPower(0);
 
-        launcherArmPosition = 0.0;
 
         wobbleArm.setPosition(0.4);
         wobbleGrip.setPosition(0);
