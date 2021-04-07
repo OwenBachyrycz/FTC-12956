@@ -156,7 +156,7 @@ public class NewAuto extends LinearOpMode {
             wobbleGrip.setPosition(.8);
             sleep(500);
             moveDrivetrain(0,-.1,0,500);
-            /**moving to other wobble
+            /**moving to other wobble E
             moveDrivetrain(0, -.25, 0, 200);
             moveDrivetrain(0,0,0.5,1900);
             moveDrivetrain(-.1,.5,0,1500);
